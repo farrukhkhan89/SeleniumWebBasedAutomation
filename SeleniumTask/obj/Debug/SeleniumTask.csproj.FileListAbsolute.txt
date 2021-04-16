@@ -1,0 +1,10 @@
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\SeleniumTask.dll
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\SeleniumTask.pdb
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\nunit.framework.dll
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\WebDriver.dll
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\nunit.framework.xml
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\bin\Debug\WebDriver.xml
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\obj\Debug\SeleniumTask.csproj.CoreCompileInputs.cache
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\obj\Debug\SeleniumTask.csproj.CopyComplete
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\obj\Debug\SeleniumTask.dll
+E:\Workspace\03\demos\before\01CreatingTestProject\SeleniumTask\obj\Debug\SeleniumTask.pdb
